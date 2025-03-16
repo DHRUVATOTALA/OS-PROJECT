@@ -1,0 +1,102 @@
+cscope 15 $HOME/OS-PROJECT -q 0000000014 0000000475
+	@pthread-trial.c
+
+1 
+	~<¡dio.h
+>
+
+2 
+	~<±h»ad.h
+>
+
+4 *
+	$myth»ad
+(*
+¬g
+) {
+
+5 
+	`´štf
+("%s\n", (*)
+¬g
+);
+
+6  
+NULL
+;
+
+7 
+	}
+}
+
+9 
+	$maš
+(
+¬gc
+, * 
+¬gv
+[]) {
+
+10 
+±h»ad_t
+ 
+p1
+,
+p2
+;
+
+11 
+	`´štf
+("main: begin\n");
+
+12 
+	`±h»ad_ü—‹
+(&
+p1
+,
+NULL
+,
+myth»ad
+,"A");
+
+13 
+	`±h»ad_ü—‹
+(&
+p2
+,
+NULL
+,
+myth»ad
+,"B");
+
+14 
+	`±h»ad_još
+(
+p1
+,
+NULL
+);
+
+15 
+	`±h»ad_još
+(
+p2
+,
+NULL
+);
+
+16 
+	`´štf
+("main:ƒnd\n");
+
+18 
+	}
+}
+
+	@
+1
+.
+0
+1
+16
+pthread-trial.c
